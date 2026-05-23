@@ -1,0 +1,17 @@
+{
+  "name": "pnpm-pacquet-libc-scalar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.2.2",
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": "24.16.0",
+      "onFail": "download"
+    }
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.100.0"
+  }
+}
