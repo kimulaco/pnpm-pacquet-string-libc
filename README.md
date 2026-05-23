@@ -16,6 +16,8 @@ pnpm install
 
 ## Error
 
+https://github.com/kimulaco/pnpm-pacquet-string-libc/actions/runs/26334757175/job/77526512431
+
 ```
 ❯ pnpm i
 Lockfile is up to date, resolution step is skipped
